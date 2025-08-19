@@ -1,16 +1,16 @@
-# About Me
+<h1 align="center">Hi 👋, I'm Monalisha Borgohain</h1>
+<h3 align="center">A passionate Python Developer from India</h3>
 <img width="1536" height="1024" alt="20250818_2304_Girl on Laptop_simple_compose_01k2z3xcqrfb9tf0n338gegrpy" src="https://github.com/user-attachments/assets/e7469593-55d0-4cc2-a090-bc337febcb2f" />
 
-<h1 align="center">Hi 👋, I'm Monalisha Borgohain</h1>
-<h3 align="center">A passionate Python Learner from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monalisha99&label=Profile%20views&color=0e75b6&style=flat" alt="monalisha99" /> </p>
 
 - 🌱 I’m currently learning **Python Programming**
 
-- 👨‍💻 All of my projects are available at [https://medium.com/](https://medium.com/)
+- 👨‍💻 All of my projects are available at [Medium](https://medium.com/)
 
-- 📫 How to reach me **bmobalisha@gmail.com**
+- 📫 Reach me at **bmobalisha@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
