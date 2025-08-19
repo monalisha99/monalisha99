@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Monalisha Borgohain</h1>
-<h3 align="center">A passionate Python Developer from India</h3>
 <img width="1440" height="720" alt="monalisha-github" src="https://github.com/user-attachments/assets/e8fffbeb-eabe-4b46-adec-4a8446c2f76a" />
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monalisha99&label=Profile%20views&color=0e75b6&style=flat" alt="monalisha99" /> </p>
 
