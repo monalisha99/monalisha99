@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [Medium](https://medium.com/)
 
-- 📫 Reach me at **bmobalisha@gmail.com**
+- 📫 Reach me at **bmobalisha1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
