@@ -2,15 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monalisha99&label=Profile%20views&color=0e75b6&style=flat" alt="monalisha99" /> </p>
 
-- 🌱 I’m currently learning **Python Programming**
+- 🌱 I’m currently learning GUI Development using Python
 
 - 👨‍💻 All of my projects are available at [Medium](https://medium.com/)
 
 - 📫 Reach me at **bmobalisha@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
